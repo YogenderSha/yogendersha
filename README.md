@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning software development and problem solving<br>💬 Ask me about JAVA and .Net  & DSA<br>⚡ Fun fact I'm  smart .
+🌱 I’m currently learning software development and problem solving<br>💬 Ask me about JAVA, Spring and .Net  & DSA<br>⚡ Fun fact I'm  smart .
 
 
 ## 🌐 Socials:
