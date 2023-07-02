@@ -1,7 +1,12 @@
 # 💫 About Me:
 📌 I’m currently a Software Quality Assurance Intern at Calibyte.<br>
-🌱 I’m Contributing to GSSoC-23, learning software development and problem-solving and <br>
+🌱 I’m Contributing to GSSoC-23, learning software development and problem-solving.<br>
 💬 Ask me about JAVA, Spring and .Net  & DSA<br>⚡ Fun fact I'm  smart .
+
+# Check My Profiles :
+<a href="https://leetcode.com/sharmayogender572/">Leetcode</a>
+<a href="https://www.hackerrank.com/sharmayogender51?hr_r=1">Hackerrank</a>
+<a href="https://www.codechef.com/users/gj200010140070">Codechef</a> 
 
 
 ## 🌐 Socials:
