@@ -1,5 +1,7 @@
 # 💫 About Me:
-🌱 I’m currently a Software Quality Assurance Intern at Calibyte and learning software development and problem-solving and Contributing to GSSoC-23<br>💬 Ask me about JAVA, Spring and .Net  & DSA<br>⚡ Fun fact I'm  smart .
+🌱 I’m currently a Software Quality Assurance Intern at Calibyte.<br>
+🌱 I’m Contributing to GSSoC-23, learning software development and problem-solving and <br
+💬 Ask me about JAVA, Spring and .Net  & DSA<br>⚡ Fun fact I'm  smart .
 
 
 ## 🌐 Socials:
