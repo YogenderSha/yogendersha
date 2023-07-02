@@ -4,8 +4,8 @@
 💬 Ask me about JAVA, Spring and .Net  & DSA<br>⚡ Fun fact I'm  smart .
 
 # Check My Profiles :
-<a href="https://leetcode.com/sharmayogender572/">Leetcode</a>
-<a href="https://www.hackerrank.com/sharmayogender51?hr_r=1">Hackerrank</a>
+<a href="https://leetcode.com/sharmayogender572/">Leetcode     </a>
+<a href="https://www.hackerrank.com/sharmayogender51?hr_r=1">Hackerrank      </a>
 <a href="https://www.codechef.com/users/gj200010140070">Codechef</a> 
 
 
