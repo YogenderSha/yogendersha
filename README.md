@@ -3,10 +3,6 @@
 🌱 I’m Contributing to GSSoC-23, learning software development and problem-solving.<br>
 💬 Ask me about JAVA, Spring and .Net  & DSA<br>⚡ Fun fact I'm  smart .
 
-# Check My Profiles :
-<a href="https://leetcode.com/sharmayogender572/">Leetcode </a><br>
-<a href="https://www.hackerrank.com/sharmayogender51?hr_r=1">Hackerrank      </a><br>
-<a href="https://www.codechef.com/users/gj200010140070">Codechef</a> 
 
 
 ## 🌐 Socials:
@@ -18,6 +14,12 @@
 ![](https://github-readme-stats.vercel.app/api?username=yogendersha&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=yogendersha&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yogendersha&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+
+# Check My Profiles :
+<a href="https://leetcode.com/sharmayogender572/">Leetcode </a><br>
+<a href="https://www.hackerrank.com/sharmayogender51?hr_r=1">Hackerrank      </a><br>
+<a href="https://www.codechef.com/users/gj200010140070">Codechef</a> 
+
 
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=yogendersharma_)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
