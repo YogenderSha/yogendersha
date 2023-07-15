@@ -1,6 +1,6 @@
 # 💫 About Me:
 📌 I’m currently a Software Quality Assurance Intern at Calibyte.<br>
-🌱 I’m Contributing to Open Source, learning software development and problem-solving.<br>
+🌱 I’m Contributing to Open Source, working on problem-solving.<br>
 💬 Ask me about JAVA, Spring and .Net  & DSA<br>⚡ Fun fact I'm  smart .
 
 
