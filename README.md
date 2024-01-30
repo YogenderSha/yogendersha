@@ -3,7 +3,7 @@
 📌 Ex : Software Quality Assurance Intern at Calibyte.<br>
 ⚡ Lead in my blood, Impact in DNA .😎<br>
 🌱 I’m Contributing to Open Source, working on problem-solving.<br>
-💬 Ask me about JAVA, Spring and .Net  & DSA<br>⚡ Fun fact I'm  smart .
+💬 Ask me about JAVA, Spring and .Net  & DSA<br>
 
 
 
