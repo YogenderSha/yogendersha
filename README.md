@@ -1,7 +1,6 @@
 # 💫 About Me:
 📌 Curr : Software Engineer Intern at Anzo Controls .<br>
 📌 Ex : Software Quality Assurance Intern at Calibyte.<br>
-⚡ Impact in BLOOD.😎<br>
 🌱 I’m Contributing to Open Source, working on problem-solving.<br>
 💬 Ask me about JAVA, Spring and .Net  & DSA<br>
 
