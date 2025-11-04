@@ -2,7 +2,7 @@
 📌 Curr : Software Engineer at Anzo Controls .<br>
 📌 Ex : Software Quality Assurance Intern at Calibyte.<br>
 🌱 I’m Contributing to some robust application development projects .<br>
-💬 Ask me about JAVA, Spring and .Net  & DSA<br>
+💬 Ask me about JAVA, Spring,Databases and .Net  & DSA<br>
 
 
 
