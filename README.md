@@ -2,7 +2,6 @@
 📌 **Software Engineer @ Anzo Controls** — Building enterprise ERP, WMS & IoT systems<br>
 🏭 Specializing in **Industrial Automation**, **Microservices**, and **Event-Driven Architecture**<br>
 🤖 Working with **IoT protocols** (MQTT, OPC UA, Modbus) & **real-time systems**<br>
-🎓 Offered MS by Research (GenAI) at IIT Jodhpur — deferred to continue industry work<br>
 💬 Ask me about **Java, Spring Boot, .NET, System Design, Databases & DSA**<br>
 📈 210+ LeetCode | 50+ CodeChef
 
